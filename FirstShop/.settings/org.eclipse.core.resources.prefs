@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/formConfirmEmail.jsp=UTF-8
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/controller/ConfirmEmail.java=UTF-8
+encoding//src/controller/SignUp.java=UTF-8
